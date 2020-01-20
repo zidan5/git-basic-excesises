@@ -1,0 +1,371 @@
+    1  dwr
+    2  cda Downloads
+    3  cd Downloads
+    4  ls
+    5  bash Anaconda3
+    6  bash Anaconda3-2019.10-Linux-x86_64.sh 
+    7  conda list
+    8  cd ~
+    9  conda
+   10  export PATH=~/anaconda3/bin:$PATH
+   11  conda
+   12  export PATH=~/anaconda3/bin:$PATH
+   13  conda
+   14  cd Downloads/
+   15  bash Anaconda3-2019.10-Linux-x86_64.sh 
+   16  conda
+   17  jupyter notebook
+   18  cd ~
+   19  jupyter notebook
+   20  juoyter notebook
+   21  jupyter notebook
+   22  sudo apt install openjdk-11-jdk
+   23  public class HelloWorld
+   24  {    public static void main(String[] args)
+   25  }cd
+   26  dir
+   27  cd Documents
+   28  dir
+   29  ls | grep Hello\ World.java
+   30  dir
+   31  ls | grep HelloWorldjavac HelloWorld.java ls | grep HelloWorld
+   32  dir
+   33  cd HelloWorld.java
+   34  ls | grep HelloWorldjavac HelloWorld.java ls | grep HelloWorld
+   35  ls | grep HelloWorldjavac HelloWorld.java ls | grep HelloWorldcddir
+   36  cddir
+   37  cdddir
+   38  dir
+   39  jshell
+   40  dir
+   41  sudo snap install intellij-idea-community --classic
+   42  $ whereis java
+   43  whereis java
+   44  pwd
+   45  time
+   46  date
+   47  sudo snap install VLC
+   48  conda deactivate
+   49  sudo apt update
+   50  sudo snap install VLC
+   51  logout
+   52  exit
+   53  pwd
+   54  ls -l
+   55  mkdir file1
+   56  ls 
+   57  cd file1
+   58  ls -l
+   59  ls 
+   60  touch textfile1.md
+   61  ls -l
+   62  mv textfile1 textfile2
+   63  mv textfile1.md textfile2.md
+   64  ls -l
+   65  vim textfile2
+   66  vim textfile2.md
+   67  ls
+   68  ls textfile2.md
+   69  vim textfile2
+   70  ls -l
+   71  pwd
+   72  rm -rf textfile2
+   73  ls -l
+   74  rm -rf textfile2.md
+   75  ls -l
+   76  ls 
+   77  touch textfile1.txt
+   78  vim textfile1
+   79  vim textfile1.txt
+   80  cat textfile1
+   81  ls 
+   82  cat textfile1.txt
+   83  vim textfile1.txt
+   84  Vim textfile1.txt
+   85  Emacs textfile1.txt
+   86  vi textfile1.txt
+   87  ls -l
+   88  cd file1
+   89  ls
+   90  cat textfile1
+   91  cat textfile1.txt
+   92  vi textfile1.txt
+   93  cd file1
+   94  rm -rf file1
+   95  ls -l
+   96  vim -r textfile1.txt
+   97  sudo apt install vim
+   98  ls -l
+   99  vim -r textfile1.txt
+  100  rm -rf textfile1.txt
+  101  ls -l
+  102  touch myFile
+  103  ls
+  104  ls -l
+  105  rm myFile
+  106  ls -l
+  107  touch myFile.txt
+  108  vim myFile.txt
+  109  ls
+  110  cd file1
+  111  ls -l
+  112  cat myFile1.txt
+  113  cat myFile.txt
+  114  vi myFile.txt
+  115  cat myFile.txt
+  116  touch Musa.txt
+  117  touch Rotondwa.txt
+  118  cat Musa.txt Rotondwa.txt myFile.txt > TP.txt
+  119  cat TP.txt
+  120  vim Musa.txt
+  121  cat Musa.txt
+  122  vim Rotondwa.txt
+  123  cat Musa.txt Rotondwa.txt myFile.txt > TP.txt
+  124  cat TP.txt
+  125  ls -l
+  126  cd file
+  127  cd file1
+  128  ls -l
+  129  cat "Hello world" >> Musa.txt
+  130  cat 'Hello world' >> Musa.txt
+  131  echo "Hello world" >> Musa.txt
+  132  cat Musa.txt
+  133  locate Musa.txt
+  134  locate -c Musa.txt
+  135  locate -i musa.txt > Results
+  136  ls -l
+  137  cat Results
+  138  cp Musa.txt Thapelo.txt
+  139  cat Thapelo
+  140  cat Thapelo.txt
+  141  rm -rf Thapelo.txt
+  142  ls -l
+  143  cd ..
+  144  ls -l
+  145  touch umuzi.md/file1
+  146  touch umuzi.txt/file1
+  147  touch umuzi.txt
+  148  ls -l
+  149  rm umuzi.txt
+  150  ls
+  151  touch umuzi.txt
+  152  ls -l
+  153  mv umuzi.txt/file1
+  154  mv umuzi.txt file1
+  155  ls -l file1
+  156  pwd
+  157  rm /home/recruit/file1/umuzi.txt
+  158  ls -l file1
+  159  touch a.txt b.txt c.txt
+  160  ls -l
+  161  rm a.txt b.txt
+  162  ls -l
+  163  rm c.txt
+  164  ls -l
+  165  touch hey.txt
+  166  vim hey.txt
+  167  cat hey.txt
+  168  cd file1
+  169  ls -l
+  170  cat Rotondwa.txt myFile.txt
+  171  cd ..
+  172  touch pad.md Documents
+  173  ls -l Documents
+  174  ls  Documents
+  175  touch SampleFile.txt  Documents
+  176  ls  Documents
+  177  ls -l Documents
+  178  pwd
+  179  ls -l
+  180  rm SampleFile.txt
+  181  cp /home/recruit/file1/ Musa.txt > newFile.txt
+  182  cp /home/recruit/file1/Musa.txt > newFile.txt
+  183  cp --help
+  184  cp /home/recruit/file1/Musa.txt  newFile.txt
+  185  ls -l
+  186  cd file1
+  187  cp Musa.txt Readme.txt
+  188  mv Musa.txt Readme.txt
+  189  ls -l
+  190  cp myFile.txt Musa.txt
+  191  cat Musa.txt
+  192  cat myFile.txt
+  193  cd ..
+  194  cd Documents
+  195  pwd
+  196  cd ..
+  197  cp /home/recruit/Documents/HelloWorld.java ThisJava.java
+  198  ls -l
+  199  rm ThisJava.java
+  200  rmpad.md newFile.md hey.txt
+  201  rm pad.md newFile.md hey.txt
+  202  rm pad.md newFile.md 
+  203  rm pad.md newFile.txt 
+  204  rm pad.md 
+  205  ls -l
+  206  cd file1
+  207  touch pad.md /home/recruit/
+  208  cd ..
+  209  ls -l
+  210  sudo updatedb
+  211  locate "*.pdf" 
+  212  locate "*.pdf" -n 3
+  213  locate -c "*.pdf" -n 3
+  214  locate -c "*.pdf"
+  215  locate -c "*.pdf" 
+  216  find . -maxdepth 1 -newermt "2020-01-15"
+  217  nano
+  218  nano my_bio.md
+  219  locate my_bio.md
+  220  pwd
+  221  ls -l
+  222  cat my_bio.md
+  223  cat 'my_bio.md^y'
+  224  mkdir my_files
+  225  mv 'my_bio.md^y' my_files
+  226  ls my_files
+  227  find *.pdf ~/Documents
+  228  rm *.pdf ~/Documents
+  229  locaate "*.pdf" ~/file1
+  230  locate "*.pdf" ~/file1
+  231  pwd
+  232  cd file1
+  233  ls -l
+  234  locate -c file1
+  235  CD
+  236  cd
+  237  ls -l
+  238  locate my_bio.md
+  239  touch t.txt mv t.txt ~/file1
+  240  ls file1
+  241  ls -l file1
+  242  clone https://github.com/zidan5/Solar-Control-System.git
+  243  git clone https://github.com/zidan5/Solar-Control-System.git
+  244  sudo apt install git
+  245  git clone https://github.com/zidan5/Solar-Control-System.git
+  246  ls -a
+  247  pwd
+  248  git clone https://github.com/zidan5/Linux-Challenges-Umuzi-.git
+  249  pwd
+  250  ls -l
+  251  cd Linux-Challenges-Umuzi-/
+  252  ls -a
+  253  cp ~/Documents/Assesment1_T-Mabuza.txt .
+  254  ls -l
+  255  git add Assesment1_T-Mabuza.txt 
+  256  git status
+  257  git commit -m "Task 1 to Task 7 "
+  258  git config --global user.email "tmabuza2@gmail.com"
+  259  git config --global user.name "zidan5"
+  260  git push
+  261  git push -f
+  262  git push -u origin master
+  263  git rm --cached Assesment1_T-Mabuza.txt 
+  264  git status
+  265  pwd
+  266  cd Linux-Challenges-Umuzi-/
+  267  ls
+  268  ls -l
+  269  git add Assesment1_T-Mabuza.txt Assesment1_T-Mabuza.txt 
+  270  git status
+  271  git commit -m "Task 1-7"
+  272  git status
+  273  pwd
+  274  git clone https://github.com/zidan5/Linux-Challenges-Umuzi-.git
+  275  cd Linux-Challenges-Umuzi-/
+  276  git add Assesment1_T-Mabuza.txt 
+  277  git status
+  278  reset
+  279  ls
+  280  git add Assesment1_T-Mabuza.txt 
+  281  git status
+  282  cd Linux-Challenges-Umuzi-/
+  283  ls
+  284  git init
+  285  git add Assesment1_T-Mabuza.txt 
+  286  git status
+  287  locate my_bio.md
+  288  cd my_files
+  289  cd
+  290  cd my_files
+  291  nano my_bio.md^y 
+  292  cd ~
+  293  nano [option] /path/to/filename
+  294  pwd
+  295  cd Linux-Challenges-Umuzi-/
+  296  ls
+  297  git status
+  298  git pull
+  299  ls
+  300  git status 
+  301  touch new.txt && echo "hello world" >> new.txt
+  302  ls
+  303  cat new.txt 
+  304  git status 
+  305  git add new.txt
+  306  git status 
+  307  git reset HEAD
+  308  git status 
+  309  git rm --cached new.txt 
+  310  ls
+  311  rm new.txt 
+  312  ls
+  313  sudo nano /etc/crontab
+  314  sudo systemctl poweroff -i
+  315  sudo nano /etc/crontab
+  316  systemctl poweroff -i
+  317  pwd
+  318  mkdir git-basic-excersises
+  319  cd git-basic-excersises/
+  320  ls -a
+  321  git init
+  322  git status
+  323  touch README.md
+  324  ls -a
+  325  git status
+  326  git log
+  327  git add README.md 
+  328  git status
+  329  git log
+  330  git commit -m "My Readme file"
+  331  git log
+  332  q
+  333  nano README.md
+  334  cat README
+  335  cat README.md
+  336  git status
+  337  git add README.md
+  338  git status
+  339  git commit -m "Second commit"
+  340  git status
+  341  nano README.md
+  342  git add README.md
+  343  gti status
+  344  git status
+  345  git commit -m "Third commit"
+  346  git status
+  347  git log
+  348  git checkout 7a8c7670c51658175048e907a3a445bd0f7b0e09
+  349  cat README.md
+  350  gti checkout master
+  351  git checkout master
+  352  cat README.md
+  353  gti branch
+  354  git branch
+  355  git branch milkshake-flavours
+  356  git branch
+  357  git checkout milkshake-flavours 
+  358  git branch
+  359  git checkout master
+  360  git branch
+  361  git checkout milkshake-flavours 
+  362  nano milkshakes.md
+  363  git status
+  364  git add milkshakes.md 
+  365  git status
+  366  git commit -m "added initial flavours"
+  367  git log
+  368  git checkout master 
+  369  git branch history
+  370  git log
+  371  history > history.txt
